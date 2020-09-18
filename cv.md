@@ -4,4 +4,4 @@
 4. OS Equation, DB2, SQL
 5. support and configuration OS Equation
 6. BSUIR Automatic information processing systems
-7. English level A2, Streamline courses 
+7. English level B1, Streamline courses 
