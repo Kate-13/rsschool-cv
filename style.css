@@ -1,0 +1,41 @@
+mark {
+    background-color: rgb(202, 178, 224);
+    color: black;
+}
+
+body {
+    align-content: center;
+}
+
+.fonts_header {
+    margin-left: 300px;
+    margin-right: 300px;
+    font-size: 16px;
+    font-family: Verdana, sans-serif;
+    background-color: rgb(202, 178, 224);
+
+}
+
+.image {
+    border: black;
+    border-style: double;
+}
+
+
+.fonts {
+    margin-left: 300px;
+    margin-right: 300px;
+    font-size: 16px;
+    font-family: Verdana, sans-serif;
+    text-align: justify;
+   }
+
+.fonts_footer {
+    margin-left: 300px;
+    margin-right: 300px;
+    min-height: 50px;
+    font-size: 16px;
+    font-family: Verdana, sans-serif;
+    text-align: right;
+    background-color: rgb(202, 178, 224);
+}
