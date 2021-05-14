@@ -1,5 +1,5 @@
 mark {
-    background-color: rgb(202, 178, 224);
+    background-color: rgb(159 181 218);
     color: black;
 }
 
@@ -12,7 +12,7 @@ body {
     margin-right: 300px;
     font-size: 16px;
     font-family: Verdana, sans-serif;
-    background-color: rgb(202, 178, 224);
+    background-color: rgb(159 181 218);
 
 }
 
@@ -37,5 +37,5 @@ body {
     font-size: 16px;
     font-family: Verdana, sans-serif;
     text-align: right;
-    background-color: rgb(202, 178, 224);
+    background-color: rgb(159 181 218);
 }
